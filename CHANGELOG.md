@@ -4,6 +4,27 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.4](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.4) - 2026-11-17 (early access)
+
+Ashes of the Damned 0.1.4: the Cat Gun and the LGM-1 draw in every player's hands again, and no more crash for players joining a host who had picked a gun marked NEXT BUILD.
+
+### Fixed
+
+- The Cat Gun and the LGM-1 now draw in your hands on any PC on their own; before, they relied on a graphics setting the game sent you as you spawned, and some players saw empty hands.
+- When a host had picked a gun marked NEXT BUILD, every player who joined crashed. Such a pick now stays out of the match and is kept for a later update.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+
+
 ## [0.1.3](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.3) - 2026-11-17 (early access)
 
 Ashes of the Damned 0.1.3: Alchemical Antithesis turns points into ammo as it should, and nobody can hide in the gaps beside Der Wunderfizz.
