@@ -4,6 +4,30 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.2](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.2) - 2026-11-17 (early access)
+
+Ashes of the Damned 0.1.2: the Cat Gun and the LGM-1 show in your hands again, and getting out of Ol' Tessie in the Cornfield no longer kills you.
+
+### Fixed
+
+- The Cat Gun and the LGM-1 could be invisible in your hands: you saw the animation and the ammo but no gun. They now draw for every player, in private matches and on servers.
+- Getting out of Ol' Tessie in the Cornfield could kill you within seconds, as if you had left the map. Open ground there that zombies can walk to no longer counts as out of bounds; roofs and spots off the map still do.
+- Several fixes to how a server handles chat, ready-up and match settings.
+
+### Known issues
+
+- Alchemical Antithesis still gives points while it is active; the fix comes in the next update.
+- Beside Der Wunderfizz a player can squeeze into a gap where zombies stall instead of attacking; the fix comes in the next update.
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+
+
 ## [0.1.1](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.1) - 2026-11-16 (early access)
 
 Ashes of the Damned 0.1.1: a fix for a crash that could come from holding the scoreboard late in a long match.
