@@ -4,6 +4,26 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.11](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.11) - 2026-11-19 (early access)
+
+Ashes of the Damned 0.1.11: the Trials countdown and the zombies-left counter wait for a stalled game.
+
+### Fixed
+
+- When your game stalls for a while mid-match, the Trials countdown and the zombies-left counter now wait for it to catch up instead of piling up messages for it. Enough of those piled up could get a player kicked with "Server command overflow".
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+
+
 ## [0.1.10](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.10) - 2026-11-19 (early access)
 
 Ashes of the Damned 0.1.10: AotD uses less graphics memory.
