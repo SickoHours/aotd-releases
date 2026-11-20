@@ -4,6 +4,28 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.15](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.15) - 2026-11-20 (early access)
+
+Ashes of the Damned 0.1.15: a Panzer that lost its claw can no longer freeze the game, and a player whose game stalls is no longer kicked because of the wonder weapon HUD.
+
+### Fixed
+
+- A Panzer whose claw was knocked off by a stun (a Jotunn Star swing, a zap or an EMP) could later try to fire the missing claw and freeze the whole match. It now fights on without the claw: it still walks, hits and uses its flamethrower.
+- If your game froze or lagged for a while (a hitch, a stall, a network hiccup) while you held a wonder weapon, the server kept queueing wonder weapon HUD updates for you, and that could get you kicked with Connection Interrupted. It now waits until your game answers again, then catches your HUD up.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.14](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.14) - 2026-11-19 (early access)
 
 Ashes of the Damned 0.1.14: FAST RESTART no longer runs the game out of memory.
