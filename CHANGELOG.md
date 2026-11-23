@@ -4,6 +4,27 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.24](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.24) - 2026-11-23 (early access)
+
+Ashes of the Damned 0.1.24: your PACK-A-PUNCH CAMO pick now works on the four CoD Online guns.
+
+### Fixed
+
+- The PACK-A-PUNCH CAMO pick now applies to the Intervention, UMP45, M4A1 and Striker after Pack-a-Punch, like every other gun. With no pick, or the PACK-A-PUNCH tile, they keep CoD Online's own Pack-a-Punch camo.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.23](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.23) - 2026-11-23 (early access)
 
 Ashes of the Damned 0.1.23: four Modern Warfare guns from CoD Online's zombies join THE BOX: the Intervention, UMP45, M4A1 and Striker.
