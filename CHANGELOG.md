@@ -4,6 +4,34 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.20](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.20) - 2026-11-23 (early access)
+
+Ashes of the Damned 0.1.20: gameplay tips, Monkey Bombs that work on the Panzer, a Grapple that stays with you, and two Ol' Tessie fixes.
+
+### Added
+
+- Gameplay tips: every so often, a short reminder that holding the scoreboard shows your loadout and your next objective. You can turn them off with the TIPS setting under YOUR HUD.
+
+### Fixed
+
+- Your Grapple no longer disappears at the end of a round while you hold Monkey Bombs or EMPs: it floats in front of you, and Use takes it back.
+- Monkey Bombs now lure the Panzer: it walks to the monkey and takes the blast instead of flaming straight through it.
+- Ol' Tessie: with nobody driving, using any of her doors puts you at the wheel.
+- Ol' Tessie: if she breaks down off the map, her riders are no longer trapped in their seats. She's towed back to the road and they get out on solid ground.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.18](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.18) - 2026-11-23 (early access)
 
 Ashes of the Damned 0.1.18: your teammates now hold the Cat Gun properly, plus two fixes to the official servers' logs.
