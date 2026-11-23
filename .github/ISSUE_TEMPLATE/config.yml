@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Report on the ModwithAI Discord
     url: https://modwith.ai/discord?src=aotd&utm_source=github&utm_campaign=issues
-    about: Post in #aotd-bugs if you'd rather report there.
+    about: "Post in #aotd-bugs if you'd rather report there."
