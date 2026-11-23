@@ -1,0 +1,42 @@
+name: Bug report
+description: Something broke or looks wrong in Ashes of the Damned
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for the report. You can also post in #aotd-bugs on the ModwithAI Discord: https://modwith.ai/discord?src=aotd&utm_source=github&utm_campaign=issues"
+  - type: input
+    id: version
+    attributes:
+      label: AotD version
+      description: Shown in the launcher or the main menu (e.g. 0.1.21)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+      placeholder: "1. Start TranZit solo\n2. Buy Wisp Tea\n3. ..."
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Solo or co-op?
+      options: [Solo, Co-op (host), Co-op (joined), Official server]
+  - type: dropdown
+    id: os
+    attributes:
+      label: System
+      options: [Windows, Linux, Steam Deck, Other]
+  - type: textarea
+    id: media
+    attributes:
+      label: Clip, screenshot or log
+      description: Drag files here. A short clip helps the most.
