@@ -353,7 +353,7 @@ This repository is the public changelog: one tagged release per version, each wi
   <img src="https://raw.githubusercontent.com/SickoHours/aotd-releases/readme-assets/title-report-light.webp" alt="Report a bug" width="100%">
 </picture>
 
-Stuck or found a bug? Post in [#aotd-bugs](https://discord.com/channels/1564314983259701288/1570273752564891668) on [our Discord](https://modwith.ai/discord?src=aotd&utm_source=github&utm_campaign=discord). Bug reports live in one place, so this repository has no issues tab.
+Stuck or found a bug? Post in [#aotd-bugs](https://discord.com/channels/1564314983259701288/1570273752564891668) on [our Discord](https://modwith.ai/discord?src=aotd&utm_source=github&utm_campaign=discord), or [file an issue here on GitHub](https://github.com/SickoHours/aotd-releases/issues/new/choose).
 
 <p align="center">
   <a href="https://modwith.ai/discord?src=aotd&utm_source=github&utm_campaign=discord"><img src="https://raw.githubusercontent.com/SickoHours/aotd-releases/readme-assets/btn-report.png" alt="Report on Discord" height="52"></a>
