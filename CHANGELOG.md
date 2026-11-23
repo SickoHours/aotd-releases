@@ -4,6 +4,31 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.22](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.22) - 2026-11-23 (early access)
+
+Ashes of the Damned 0.1.22: the Cat Gun comes out much faster, and the scoreboard tip stops once you've finished every objective.
+
+### Changed
+
+- The scoreboard tip no longer shows once you've finished every objective.
+
+### Fixed
+
+- The Cat Gun comes out much faster: a fresh one from the box or Pack-a-Punch is ready to fire in about a second instead of three to four.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- In solo, a long stay in the pause or loadout pages can bring a short stutter or Connection Interrupted.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.21](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.21) - 2026-11-23 (early access)
 
 Ashes of the Damned 0.1.21: Trials are easier to follow, with a bigger tracker, a Legendary alert and a short how-it-works, and Ol' Tessie no longer stays stuck on the drop-off into Town.
