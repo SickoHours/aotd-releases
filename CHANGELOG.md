@@ -4,6 +4,49 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.27](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.27) - 2026-11-24 (early access)
+
+Ashes of the Damned 0.1.27: Trials count every kill, the pause menu no longer causes Connection Interrupted in solo, a simpler GUNS page, the BO7 Ray Gun Mark II in the box, a far stronger Cat Gun and Warden's Blight, and more ammo for the upgraded BO7 Ray Gun.
+
+### Added
+
+- The Black Ops 7 Ray Gun Mark II is in the Mystery Box, where the Black Ops 2 Ray Gun Mark II used to be. It rolls by the same rule: never while you already hold a Ray Gun. Pack-a-Punch it at Ol' Tessie for Porter's Mark II Ray Gun.
+
+### Changed
+
+- The Pack-a-Punched BO7 Ray Gun (Porter's X2 Ray Gun) now holds 600 rounds in reserve instead of 200, on top of its 40-round magazine, and comes out of the machine full. Max Ammo refills it to 600.
+- The Cat Gun's normal shot is far stronger: every bolt bursts where it lands and kills the ordinary zombies near it, at any round (about three meters around, up to 8 zombies a shot). Bosses only take the bolt's own damage.
+- The Pack-a-Punched Cat Gun's burst is bigger: about five meters around and up to 16 zombies a shot.
+- The Pack-a-Punched Warden's Blight's charged shot raises a much stronger tornado. It drags in every chasing zombie it can see from about five zombie heights away, at any round and any health (before, only nearly dead zombies right beside it).
+- The tornado now holds up to 16 zombies at once, stays up for 8 seconds instead of 3, and kills everything it holds. Bosses still only take its damage and are never pulled in.
+- Each player can have up to 4 of these tornadoes standing at once, and the whole game up to 8; a new one ends the oldest.
+- The Pack-a-Punched Warden's Blight now holds 800 bolts in reserve instead of 240, on top of its two 12-bolt hands. Max Ammo refills it to 800.
+- The pregame's box page is now GUNS: it shows only the guns this version has, one DEFAULT button puts the box back as it ships, and one line says how many guns are in the box and how many more fit.
+- THE PISTOLS page is gone: every lobby loads the same six starting pistols as the official servers (Five-seven Dual, B23R, Remington NMA, Bloodhound, TAC-45 and CZ75 Dual). Pick yours in the match: Esc, YOUR LOADOUT, STARTING PISTOL.
+- The Black Ops 2 Ray Gun Mark II is no longer in the Mystery Box.
+- The Pack-a-Punched Ray Gun Mark II (Porter's Mark II Ray Gun) holds 630 rounds in reserve on top of its 42-round magazine, and comes out of the machine full.
+
+### Fixed
+
+- Point Blank and Hip Fire trials now count kills from every gun, not just bullets: the wonder weapons, both Ray Guns, the Pack-a-Punched M1911 and launchers all count.
+- The Packed trial now counts kills from the left gun of a Pack-a-Punched dual wield.
+- Kills made during Insta-Kill now count for the Sidearm and Packed trials.
+- Close Quarters now counts kills from a Zombie Shield bash.
+- In a solo game, opening YOUR LOADOUT, YOUR HUD or MATCH SETTINGS from the pause menu and closing it again no longer brings Connection Interrupted or freezes the game for a few seconds. The game still pauses while the page is open.
+- Guns the box could never roll (marked NEXT BUILD) no longer show in the pregame, and the box no longer lists guns as in when this version doesn't have them.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.26](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.26) - 2026-11-24 (early access)
 
 Ashes of the Damned 0.1.26: every Pack-a-Punched gun now carries a lot more ammo.
