@@ -4,6 +4,27 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.28](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.28) - 2026-11-25 (early access)
+
+Ashes of the Damned 0.1.28: wonder weapons kill again in long matches, and the BO7 Ray Gun Mark II's ammo-dial picture is fixed.
+
+### Fixed
+
+- Wonder weapons kill zombies again later in a match. In 0.1.27, once a match had run a while (usually after Ol' Tessie's first ride or the first Panzer), the Jötunn Star, the Warden's Blight and its tornado, the Gauntlet and the other wonder weapons hit zombies without hurting them.
+- The BO7 Ray Gun Mark II's picture in the ammo dial is its outline again, not a white block.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.27](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.27) - 2026-11-24 (early access)
 
 Ashes of the Damned 0.1.27: Trials count every kill, the pause menu no longer causes Connection Interrupted in solo, a simpler GUNS page, the BO7 Ray Gun Mark II in the box, a far stronger Cat Gun and Warden's Blight, and more ammo for the upgraded BO7 Ray Gun.
