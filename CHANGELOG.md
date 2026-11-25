@@ -4,6 +4,26 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.29](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.29) - 2026-11-25 (early access)
+
+Ashes of the Damned 0.1.29: wonder weapons keep killing in even the longest matches.
+
+### Fixed
+
+- Wonder weapons keep killing zombies in even the longest matches. 0.1.28 fixed the common case; this closes the last gap, where the Pack-a-Punched Jötunn Star's swing and the Pack-a-Punched Warden's Blight's bolts could still stop hurting zombies after many events in one match.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.28](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.28) - 2026-11-25 (early access)
 
 Ashes of the Damned 0.1.28: wonder weapons kill again in long matches, and the BO7 Ray Gun Mark II's ammo-dial picture is fixed.
