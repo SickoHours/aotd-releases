@@ -4,6 +4,28 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.33](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.33) - 2026-11-25 (early access)
+
+Ashes of the Damned 0.1.33: you can no longer get stuck in Ol' Tessie when she sits in lava.
+
+### Fixed
+
+- Stuck in Ol' Tessie in lava: when every spot beside her was lava, Hold to exit and Switch seat both did nothing, and with nobody at the wheel you could never get out. Now you can always switch to her wheel and drive her off, and Hold to exit sets you down on the nearest safe ground.
+- Riders thrown out when Ol' Tessie is wrecked in lava now land on safe ground instead of staying in their seats.
+
+### Known issues
+
+- Leaving Ol' Tessie while she sits tilted at the edge of lava can still set you down in the lava. Walk out of it.
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.32](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.32) - 2026-11-25 (early access)
 
 Ashes of the Damned 0.1.32: on the official servers, a short break every 4 rounds, the same for everyone.
