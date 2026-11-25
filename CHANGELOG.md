@@ -4,6 +4,35 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.30](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.30) - 2026-11-25 (early access)
+
+Ashes of the Damned 0.1.30: the Gauntlet's overload no longer downs you, the official servers ask for your feedback in chat, and new tips.
+
+### Added
+
+- On the official servers, found a bug or have an idea? Type it in chat. The developers read every message.
+- A new tip under READY UP tells you where Pack-a-Punch is, and a reminder in play shows how to use a GobbleGum.
+
+### Changed
+
+- The Gauntlet's overload blast still hurts you when you're caught in it, but much less: one overload can no longer down you from full health. PhD Flopper still blocks it.
+
+### Fixed
+
+- On the official servers, the break between rounds now waits up to 7 minutes for everyone to ready up, as intended, instead of 90 seconds.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.29](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.29) - 2026-11-25 (early access)
 
 Ashes of the Damned 0.1.29: wonder weapons keep killing in even the longest matches.
