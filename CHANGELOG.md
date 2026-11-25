@@ -4,6 +4,28 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.31](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.31) - 2026-11-25 (early access)
+
+Ashes of the Damned 0.1.31: the official servers now point you to the ModwithAI Discord, with a QR code you can scan.
+
+### Added
+
+- On the official servers, a card with a QR code and the link to the ModwithAI Discord shows in the top right for a few seconds at quiet moments: shortly after you join and at some breaks between rounds. The TIPS row in YOUR HUD turns it off.
+- On the official servers, the scoreboard shows the ModwithAI Discord's link: discord.gg/QWsAvd2zwM.
+- New tips under READY UP: find a squad and hear about updates first in the ModwithAI Discord.
+
+### Known issues
+
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.30](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.30) - 2026-11-25 (early access)
 
 Ashes of the Damned 0.1.30: the Gauntlet's overload no longer downs you, the official servers ask for your feedback in chat, and new tips.
