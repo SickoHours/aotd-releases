@@ -4,6 +4,27 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.35](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.35) - 2026-11-26 (early access)
+
+Ashes of the Damned 0.1.35: joining a game in progress no longer crashes you while someone is using the Mystery Box.
+
+### Fixed
+
+- Joining a game in progress: your game no longer crashes the moment you spawn in while another player is spinning the Mystery Box near you.
+
+### Known issues
+
+- Leaving Ol' Tessie while she sits tilted at the edge of lava can still set you down in the lava. Walk out of it.
+- On a controller, the knife icon beside D-pad Down hides while you hold a wonder weapon.
+- Every Zombie Shield is built from the same parts at the same bench, and the host's pick counts for everyone.
+- At night, the Carcass front's beam may not light the road from the driver's seat.
+- A grapple pull can end over a spot with no ground, and you fall for a moment.
+- A Der Wunderfizz buy in the instant you go down can keep that perk through the revive.
+- Reznov, Mason, Woods and Menendez don't speak yet.
+- Downed while inspecting a wonder weapon, you revive on a pistol.
+- Joining from Plutonium's own server browser with Ashes loaded can still freeze on the download after an update. Use the title screen's server list, or restart the game and join again.
+
+
 ## [0.1.34](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.34) - 2026-11-25 (early access)
 
 Ashes of the Damned 0.1.34: the Ray Gun Mark II aims like it should and glows with life.
