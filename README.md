@@ -177,7 +177,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SickoHours/aotd-releases/readme-assets/tessie-upgraded.jpg" alt="Ol' Tessie, base and upgraded: our renders" width="100%">
+  <img src="https://raw.githubusercontent.com/SickoHours/aotd-releases/2925fe6096918a3bb599d4265c6c7919ee8d3313/tessie-upgraded.jpg" alt="Ol' Tessie, base and upgraded: our renders" width="100%">
 </p>
 
 <br>
