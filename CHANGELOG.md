@@ -4,6 +4,29 @@ Ashes of the Damned, newest version first. Downloads: https://modwith.ai/aotd
 
 <!-- releases, newest first -->
 
+## [0.1.36](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.36) - 2026-11-27 (early access)
+
+Ol’ Tessie’s DG-2 gets a new finish, and zombie damage now runs through one shared system.
+
+### Changed
+
+- The DG-2 turret and its pickup part now have an olive finish, copper coils and a blue glow.
+
+### Fixed
+
+- Scripted wonder-weapon hits keep dealing damage in later rounds, even with the bus, Tessie and bosses active.
+
+### Known issues
+
+- On PCs with less graphics memory, the game can close with "E_OUTOFMEMORY: Ran out of memory" at the main menu once Ashes loads. We're working on a fix. Workaround: Close other programs and Discord's overlay before you start the game.
+- After GAME OVER the server reloads the map, and a slower PC can time out during that reload and drop off the server. We're looking into it. Workaround: Join the server again from the server list.
+- The EU and US East servers can stall for a second or more at a time, which feels like lag. We're looking into it.
+- Joining from Plutonium's own server browser with Ashes loaded can freeze on the download after an update. Workaround: Join from the title screen's LIVE AOTD SERVERS list, or restart the game and join again.
+- Downed while inspecting a wonder weapon, you revive on a pistol. We're working on a fix. Workaround: The gun is still in your guns: switch back to it.
+- Leaving Ol' Tessie while she sits tilted at the edge of lava can set you down in the lava. Workaround: Walk out of it.
+- Reznov, Mason, Woods and Menendez don't speak yet. We're working on a fix.
+
+
 ## [0.1.35](https://github.com/SickoHours/aotd-releases/releases/tag/v0.1.35) - 2026-11-26 (early access)
 
 Ashes of the Damned 0.1.35: joining a game in progress no longer crashes you while someone is using the Mystery Box.
